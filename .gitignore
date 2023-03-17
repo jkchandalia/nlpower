@@ -1,3 +1,4 @@
 openai.env
 *.json
 *.csv
+*/.ipynb_checkpoints/
