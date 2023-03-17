@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  openai:
+    build:
+      context: .
+    env_file:
+      - openai.env
+    image: openai
+    volumes:
+      - ./:/mnt/nlp
+    command: tail -F anything
