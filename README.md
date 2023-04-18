@@ -10,7 +10,7 @@ A. High level intro to NLP:
  
  B. Generative AI GPT/ChatGPT demo
  
- c. Generative AI Stable Diffusion demo
+ C. Generative AI Stable Diffusion demo
  
  D. Discussion on biases in LLMs and mitigation strategies
  
